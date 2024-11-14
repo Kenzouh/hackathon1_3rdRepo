@@ -144,7 +144,7 @@ const Calculator = () => {
         </div> */}
         <div className='bg-white rounded-3xl shadow-sm col-span-4 p-4 flex flex-col justify-center items-start'>
           <TableauReport
-            url={"https://public.tableau.com/shared/GPY2PF9GW?:display_count=n&:origin=viz_share_link"}
+            url={"https://public.tableau.com/views/ere_17314898438990/Sheet3_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"}
             options={{
               hideTabs: false,
               hideToolbar: false,

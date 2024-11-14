@@ -5,6 +5,15 @@ const About = () => {
     <div className='overflow-y-scroll overflow-hidden pr-4'>
       <div className=' bg-white dark:bg-slate-800 dark:text-slate-300 rounded-3xl px-8 pb-8'>
       <br></br>
+
+      <p className="text-center text-3xl font-bold">Cloaver</p>
+      <p className="text-center">(MSME-Bank Relationship Builder)</p>
+      <br></br>
+      <p className="indent-8 text-justify ml-4 mr-10">Hi! Welcome to Cloaver! Cloaver is a name which is a mixture of 
+        CLoVer + lOAn + helpER! With Cloaver, you'll be guided in what actions you should take as an micro, small, medium 
+        enterprise (MSME) owner. Not sure if you will take a loan or a credit card offer? Cloaver is here for you with the 
+        data visualization graphs about the most famous loans and the types of credit cards being used by MSME owners.</p><br></br>
+
       <p className="indent-8 text-justify ml-4 mr-10">Our website gives you an insight about the patterns 
         and trends of MSMEs through data visualizations using the data provided by the Bank of the 
         Philippine Islands (BPI).  the contestants of BPI D.A.T.A. WAVE Hackathon gathered the data 
@@ -31,7 +40,7 @@ const About = () => {
 
       <div className='grid grid-cols-2 gap-4 dark:text-slate-300'>
         <div className='flex rounded-3xl shadow-sm bg-white dark:bg-slate-800 p-4'>
-          <img src="/img/Kenzo.jpg" class="image mr-10"/>
+          <img src="/img/Kenzo.jpg" class="image mr-10" alt="kenzo"/>
           <p className="indent-8 text-justify ml-4 mr-10"><b>Kenzo C. Ragundiaz</b> is the team leader of the 
             Eizhel group in the BPI D.A.T.A. WAVE Hackathon. He is the project manager and  in charge of the 
             front end (website interface), data visualization specialist and assigning the tasks of the members.</p>

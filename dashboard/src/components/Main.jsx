@@ -35,9 +35,9 @@ const Main = ({ selected, setSelected }) => {
         />
         </div>
         <div className='col-span-2'>
-          <div className='rounded-3xl shadow-sm bg-white h-full p-4'>
+          <div className='rounded-3xl shadow-sm overflow-hidden bg-white h-full p-4'>
             <TableauReport
-            url={"https://public.tableau.com/shared/WR6R88CJX?:display_count=n&:origin=viz_share_link"}
+            url={"https://public.tableau.com/views/ere_17314898438990/Sheet3_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"}
             options={{
               hideTabs: false,
               hideToolbar: false,
