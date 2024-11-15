@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hackathon1_3rdRepo/static/css/main.ec7862f5.css",
+    "main.js": "/hackathon1_3rdRepo/static/js/main.e553a560.js",
+    "index.html": "/hackathon1_3rdRepo/index.html",
+    "main.ec7862f5.css.map": "/hackathon1_3rdRepo/static/css/main.ec7862f5.css.map",
+    "main.e553a560.js.map": "/hackathon1_3rdRepo/static/js/main.e553a560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7862f5.css",
+    "static/js/main.e553a560.js"
+  ]
+}
